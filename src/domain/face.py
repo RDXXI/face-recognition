@@ -4,6 +4,6 @@ from typing import List
 
 @dataclass
 class Face:
-id: str
-name: str
-embedding: List[float]
+    id: str
+    name: str
+    embedding: List[float]
