@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "name": "Ruben",
+    "image_path": "data/faces/ruben.jpg",
+    "encoding": [0.123, 0.245, 0.332, 0.876, ...]
+  },
+  {
+    "id": "2",
+    "name": "Maria",
+    "image_path": "data/faces/maria.jpg",
+    "encoding": [0.532, 0.244, 0.611, 0.890, ...]
+  }
+]
