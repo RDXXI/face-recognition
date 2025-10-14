@@ -52,7 +52,7 @@ coverage.xml
 cover/
 venv311/
 venv*/
-
+    
 # Translations
 *.mo
 *.pot
