@@ -1,0 +1,16 @@
+C:\tmp\face-recognition\main.py
+C:\tmp\face-recognition\README.md
+C:\tmp\face-recognition\requirements.txt
+C:\tmp\face-recognition\src
+C:\tmp\face-recognition\src\application
+C:\tmp\face-recognition\src\domain
+C:\tmp\face-recognition\src\infrastructure
+C:\tmp\face-recognition\src\presentation
+C:\tmp\face-recognition\src\shared
+C:\tmp\face-recognition\src\application\recognize_face.py
+C:\tmp\face-recognition\src\application\register_face.py
+C:\tmp\face-recognition\src\domain\face.py
+C:\tmp\face-recognition\src\infrastructure\camera_service.py
+C:\tmp\face-recognition\src\infrastructure\face_repository_fs.py
+C:\tmp\face-recognition\src\presentation\cli.py
+C:\tmp\face-recognition\src\shared\config.py
